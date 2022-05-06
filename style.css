@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  body{
+    width: 1210px;
+    height: 2392px;
+    margin-left: 17px;
+    margin-top: 40px;
+  }
+  
+  nav{
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  h1{
+    margin-bottom: 40px;
+    font-size: 24px;
+  }
+  
+  li{
+    font-size: 17px;
+    line-height: 35px;
+  }
+  
+  h3{
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  
+  p{
+    font-size: 17px;
+    margin: 10px;
+  }
+  
+  .adopt{
+    margin: 20px;
+  }
+  
+  .email{
+    margin-bottom: 30px;
+  }
+  
+  .x{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 0;
+    width: 17px;
+    height: 28px;
+    background: #E5E5E5;
+    box-shadow: none;
+  }
+  
+  button{
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top: 45px;
+    margin-bottom: 10px;
+    padding: 7px;
+    cursor: pointer;
+    background: #CDCDD2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 0;
+  }
+  .gray{
+    width: 246px;
+    height:246px;
+    border: #C4C4C4;
+    border-radius: 50%;
+    background-color:#C4C4C4;
+    margin-left: 5px;
+    margin-top: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .luna{
+    display: inline-block;
+    width: 200px;
+    overflow: hidden;
+    border-bottom: 2px solid lightgray;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+    transition: 1s all;
+  }
+  
+  .luna:hover{
+    transform: scale(1.1);
+    background: rgb(191, 145, 243);
+  }
+  
+  .duque{
+    display: inline-block;
+    width: 180px;
+    overflow: hidden;
+    border-bottom: 2px solid lightgray;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+    transition: 1s all;
+  }
+  
+  .duque:hover{
+    transform: scale(1.1);
+    background: rgb(191, 145, 243);
+  }
+  
+  .perola{
+    display: inline-block;
+    width: 180px;
+    overflow: hidden;
+    border-bottom: 2px solid lightgray;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+    transition: 1s all;
+  }
+  
+  .perola:hover{
+    transform: scale(1.1);
+    background: rgb(191, 145, 243);
+  }
+  
+  .thor{
+    display: inline-block;
+    width: 200px;
+    overflow: hidden;
+    border-bottom: 2px solid lightgray;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+    transition: 1s all;
+  }
+  
+  .thor:hover{
+    transform: scale(1.1);
+    background: rgb(191, 145, 243);
+  }
+  
+  .rex{
+    display: inline-block;
+    width: 180px;
+    overflow: hidden;
+    border-bottom: 2px solid lightgray;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+    transition: 1s all;
+  }
+  
+  .rex:hover{
+    transform: scale(1.1);
+    background: rgb(191, 145, 243);
+  }
+  
+  figcaption{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .adotar{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 15px;
+    font-weight: bold;
+    cursor: pointer;
+    background: rgb(191, 145, 243);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .adotar:hover{
+    background-color: white;
+    transition: 1s all;
+  }
+  
+  img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .friend{
+    margin-top: 80px;
+    margin-bottom: 20px;;
+    text-decoration: underline;
+    color: #643D95;
+  }
+  
+  .icone{
+    width: 20px;
+    height: 20px;
+  }
